@@ -1,4 +1,4 @@
-# U.S. Healthcare Trends & Insights Dashboard (2019–2020)
+# Healthcare Trends Dashboard (2019–2020)
 
 This Power BI dashboard delivers an in-depth exploration of healthcare performance in the U.S. during 2019–2020. Designed to serve analysts, decision-makers, and healthcare professionals, it consolidates key operational, clinical, and financial data into a structured, interactive report.
 
